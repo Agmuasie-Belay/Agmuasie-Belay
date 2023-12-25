@@ -6,9 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **[Meta Front End Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)** to upgrade my expertise.
+- 🔭 I have completed **[Meta Front End Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I have completed learning **Data Structures and Algorithms** from Coursera.
+
+- Enrolled for **IBM Data Science** program.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
