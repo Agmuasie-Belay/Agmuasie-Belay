@@ -1,62 +1,200 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+```md
+<!-- ============================== -->
+<!--          HERO SECTION          -->
+<!-- ============================== -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Agmuasie</h1>
-<h3 align="center">A passionate engineer and front/backend dev from Ethiopia.</h3>
+<div align="center">
 
+# Hi there 👋, I'm **Agmuasie Belay Birhanie**
 
-## 🙋‍♂️ About Me
+### Electrical & Computer Engineer • AI Researcher • Full Stack Developer • University Lecturer
 
-- 🔭 I have completed **[Meta Front End Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)** and **Machine learning specialization**.
+*Building trustworthy AI-powered cyber-physical systems that bridge research and real-world impact.*
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agmuasie-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agmuasie-belay/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agmuasie.belay71@gmail.com)
 
-- 📫 You can reach me **agmuasie.belay71@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Researcher;Edge+AI+%7C+IoT+%7C+Renewable+Energy;Full+Stack+Developer;University+Lecturer;Open+Source+Contributor" />
 
-## 🚀 Languages and Tools:
+</div>
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+---
+
+# 🚀 About Me
+
+I'm an **Electrical & Computer Engineer**, **AI Researcher**, and **Full Stack Developer** passionate about building intelligent systems that combine **Artificial Intelligence**, **Edge Computing**, **IoT**, and **Renewable Energy**.
+
+I enjoy transforming research ideas into practical software solutions that solve real-world problems.
+
+- 🎓 Lecturer in Electrical & Computer Engineering
+- 🔬 Research Focus: Trustworthy Edge AI for Cyber-Physical Systems
+- 🌱 Currently exploring Large Language Models, Edge Intelligence & Distributed AI
+- 💻 Building scalable React, NestJS, and PostgreSQL applications
+- 🤝 Open to Research Collaborations & Open Source
+- 📫 Reach me at **agmuasie.belay71@gmail.com**
+
+---
+
+# 🔭 Current Focus
+
+- 🤖 Trustworthy Edge AI
+- ⚡ Intelligent Renewable Energy Systems
+- 🌐 Internet of Things
+- 🧠 Machine Learning
+- 🏗️ Full Stack Development
+- 📚 Engineering Education & STEM Innovation
+
+---
+
+# 🧠 Research Interests
+
+- Artificial Intelligence
+- Edge AI
+- Cyber-Physical Systems
+- Renewable Energy Systems
+- Smart Grid Technologies
+- Intelligent Control Systems
+- Robotics
+- Embedded Systems
+- Computer Vision
+- Explainable & Trustworthy AI
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" />
 </p>
-<br/>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **LumiRise LMS** | AI-powered tutoring and mentorship platform | React, NestJS, PostgreSQL |
+| **Apollo Travel** | Modern travel agency website | React, Tailwind CSS |
+| **University Website** | Institutional CMS platform | React, Express, PostgreSQL |
+| **IoT Smart Monitoring** | Intelligent monitoring system using IoT | ESP32, MQTT |
+| **Personal Portfolio** | Modern engineering portfolio | React, Tailwind |
+
+---
+
+# 📖 Publications
+
+### Neural Networks-Based Flux Estimation and Fractional Order Sliding Mode Torque Control of Induction Motors
+
+Published in **2024**
+
+> *More publications coming soon...*
+
+---
+
+# 🏆 Certifications
+
+- ✅ Meta Front-End Developer Professional Certificate
+- ✅ Machine Learning Specialization
+- ✅ McKinsey Forward Program
+- ✅ Arizona State University Teaching Online Masterclass
+- ✅ ICDL Trainer Certification
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-    <a href="https://github.com/Agmuasie-Belay/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Agmuasie-Belay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Agmuasie-Belay&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## 📊 My Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agmuasie-Belay&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <br/>
-    <a href="https://github.com/Agmuasie-Belay/github-readme-stats"><img alt="Agmuasie-Belay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agmuasie-Belay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Agmuasie-Belay/github-readme-stats"><img alt="Agmuasie-Belay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agmuasie-Belay&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Agmuasie-Belay/github-readme-activity-graph"><img alt="Agmuasie-Belay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Agmuasie-Belay&hide_border=true&area=true&point=transparent&theme=react-dark" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/agmuasie-belay/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agmuasie-Belay&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Agmuasie-Belay/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Agmuasie-Belay">
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Agmuasie-Belay&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agmuasie-Belay&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/agmuasie-belay">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Agmuasie-Belay?tab=followers"><img src="https://img.shields.io/github/followers/Agmuasie-Belay?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="mailto:agmuasie.belay71@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Agmuasie-Belay">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Fun Fact
+
+> *"Engineering is not just about building technology—it's about creating solutions that improve lives."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my work interesting, consider giving a ⭐ to one of my repositories.
+
+![](https://komarev.com/ghpvc/?username=Agmuasie-Belay&style=flat-square)
+
+</div>
+```
