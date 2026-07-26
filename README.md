@@ -1,4 +1,3 @@
-```md
 <!-- ============================== -->
 <!--          HERO SECTION          -->
 <!-- ============================== -->
@@ -13,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agmuasie-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agmuasie-belay/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agmuasie.belay71@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agmuasieelay71@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Researcher;Edge+AI+%7C+IoT+%7C+Renewable+Energy;Full+Stack+Developer;University+Lecturer;Open+Source+Contributor" />
 
@@ -32,7 +31,7 @@ I enjoy transforming research ideas into practical software solutions that solve
 - 🌱 Currently exploring Large Language Models, Edge Intelligence & Distributed AI
 - 💻 Building scalable React, NestJS, and PostgreSQL applications
 - 🤝 Open to Research Collaborations & Open Source
-- 📫 Reach me at **agmuasie.belay71@gmail.com**
+- 📫 Reach me at **agmuasie@gmail.com**
 
 ---
 
@@ -170,7 +169,7 @@ Published in **2024**
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:agmuasie.belay71@gmail.com">
+<a href="mailto:agmuasie@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -197,4 +196,3 @@ If you find my work interesting, consider giving a ⭐ to one of my repositories
 ![](https://komarev.com/ghpvc/?username=Agmuasie-Belay&style=flat-square)
 
 </div>
-```
